@@ -14,6 +14,6 @@ npm start
 
 ## Environment Variables
 
-`PORT` - Defaults to 8080
-`HOST` - Defaults to 0.0.0.0
-`LOG` - Defaults to false
+* `PORT` - Defaults to 8080
+* `HOST` - Defaults to 0.0.0.0
+* `LOG` - Defaults to false
