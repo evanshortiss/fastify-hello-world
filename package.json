@@ -1,0 +1,29 @@
+{
+  "name": "fastify-hello-world",
+  "version": "1.0.0",
+  "description": "A hello world JSON API written in fastify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "standard --fix *.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanshortiss/fastify-hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanshortiss/fastify-hello-world/issues"
+  },
+  "homepage": "https://github.com/evanshortiss/fastify-hello-world#readme",
+  "dependencies": {
+    "env-var": "~6.2.0",
+    "fastify": "~2.15.0"
+  },
+  "devDependencies": {
+    "standard": "~14.3.4"
+  }
+}
